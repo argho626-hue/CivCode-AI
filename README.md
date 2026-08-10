@@ -6,7 +6,7 @@
 ---
 
 ## 👤 Architected by Argho Dutta
-🎓 **B.Tech Civil Engineering @ HIT** | Future Sustainable Structural Engineer targeting MSc in France (2027).
+🎓 **B.Tech Civil Engineering @ HIT** | Sustainable Structural Engineering Researcher.
 
 ### 📌 Project Overview
 This project bridges the gap between traditional civil engineering and Artificial Intelligence. **CivCode AI** is a Machine Learning web application (built with Random Forest Regressor and a Glassmorphism UI) designed to instantly predict the maximum load capacity of concrete-filled UPVC tubular columns. 
