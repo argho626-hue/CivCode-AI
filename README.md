@@ -1,6 +1,6 @@
 <div align="center">
   <h1>🏗️ CivCode AI v3.0</h1>
-  <h3>Advanced Computational Mechanics & Sustainable Structures AI</h3>
+  <h3>Digitalization in Construction & Sustainable Smart Structures</h3>
 
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/argho626-hue/CivCode-AI/blob/main/CivCode_AI.ipynb)
   ![Python](https://img.shields.io/badge/Python-Data_Science-blue?logo=python&logoColor=white)
@@ -11,17 +11,17 @@
 ---
 
 ## 👨‍💻 Architected by Argho Dutta
-> *"Bridging the gap between eco-friendly construction materials and data-driven predictive modeling to eliminate destructive testing."*
+> *"Driving the transition towards a circular economy in construction by integrating advanced computational mechanics with eco-friendly material science."*
 
-🎓 **B.Tech Civil Engineering @ HIT** | 🔬 AAC Thermo-Mechanical Researcher 
+🎓 **B.Tech Civil Engineering** | 🔬 Computational Mechanics & AAC Researcher | 📝 Published Author
 
 ### 📌 Project Overview
-This project bridges the gap between traditional civil engineering and Artificial Intelligence. **CivCode AI v3.0** is a Machine Learning web application designed to instantly predict the ultimate load capacity of UPVC-confined concrete columns[cite: 19]. By utilizing a Random Forest regression algorithm trained on 742 experimental data points, it eliminates the need for resource-intensive and destructive physical laboratory testing[cite: 19].
+This project is a response to the massive carbon footprint of conventional cement-based construction. **CivCode AI v3.0** is an advanced Machine Learning framework designed to instantly predict the structural performance of UPVC-confined concrete[cite: 21]. By utilizing a Random Forest regression algorithm trained on 742 experimental data points, this tool eliminates the need for recurring, energy-consuming physical testing[cite: 21]. 
 
 ### 🚀 Key Features
-* **Instant Load Prediction:** Accurately estimates structural capacity based on column geometry and material properties with 86.40% accuracy[cite: 19].
-* **Generative Structural Design:** Features a reverse optimization module where engineers can input a 'Target Load', and the AI automatically recommends the most economical and sustainable material combinations[cite: 19].
-* **Feature Importance Insights:** Transparently displays which parameters (e.g., Area of Concrete) most significantly influence the column's strength[cite: 19].
+* **Instant Load Prediction:** Accurately estimates structural capacity based on column geometry and material properties with 86.40% accuracy[cite: 21].
+* **Generative Structural Design:** Features a reverse optimization module to automatically recommend the most economical and sustainable material combinations.
+* **Feature Importance Insights:** Transparently displays which parameters most significantly influence structural integrity.
 
 ### 🛠️ How to Use the Live App
 1. Click the **"Open in Colab"** badge at the very top of this page.
@@ -30,7 +30,7 @@ This project bridges the gap between traditional civil engineering and Artificia
 
 ---
 
-### 🔮 Future Scope & Ongoing Research
-The current model accurately predicts the ultimate axial load capacity[cite: 19]. The next evolutionary step for **CivCode AI** involves forecasting the complete load-displacement behavior to evaluate the ductility and energy dissipation characteristics of the columns[cite: 19]. This advancement will transform the tool into a vital asset for **AI-Driven Seismic Resilience Analysis**, allowing engineers to design earthquake-resistant structures efficiently[cite: 19].
+### 🔮 Research Vision & Future Integration
+While the current ML model demonstrates high capability in macroscopic structural predictions, the ultimate goal is the broader **Digitalization in Construction**[cite: 21]. Future iterations aim to integrate these ML-based predictions directly with numerical mechanics and electro-thermal coupled models[cite: 21]. 
 
-This computational approach directly aligns with broader research goals of optimizing sustainable building materials, including ongoing experimental studies into the thermo-mechanical behavior of cement-free Alkali-Activated Concrete (AAC) under extreme heat[cite: 18].
+This computational approach is being developed in parallel with physical research on cement-free Alkali-Activated Concrete (AAC). By analyzing AAC's thermal degradation up to 600°C, the research loop will eventually be closed through advanced micro-thermo-mechanical automated testing[cite: 21]. The long-term objective is to contribute to **Digital Civil Infrastructure** by developing smart, sustainable structures on a larger scale[cite: 21].
