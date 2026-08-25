@@ -5,21 +5,26 @@
 
 ---
 
-## 👤 Architected by Argho Dutta
+## 👨‍💻 Architected by Argho Dutta
 🎓 **B.Tech Civil Engineering @ HIT** | Sustainable Structural Engineering Researcher.
 
 ### 📌 Project Overview
-This project bridges the gap between traditional civil engineering and Artificial Intelligence. **CivCode AI** is a Machine Learning web application (built with Random Forest Regressor and a Glassmorphism UI) designed to instantly predict the maximum load capacity of concrete-filled UPVC tubular columns. 
+This project bridges the gap between traditional civil engineering and Artificial Intelligence. **CivCode AI v2.0** is a Machine Learning web application designed to instantly predict the ultimate load capacity of UPVC-confined concrete columns. By utilizing a Random Forest regression algorithm trained on 742 experimental data points, it eliminates the need for resource-intensive and destructive physical laboratory testing.
 
 ### 🚀 Key Features
-- **High Accuracy Predictions:** Utilizes ML algorithms trained on past structural data to predict load capacities with 86%+ accuracy.
-- **Eco-Friendly Focus:** Significantly reduces the need for physical destructive testing, saving both time and concrete material waste.
-- **Interactive UI:** Features a premium, interactive web interface allowing engineers to input parameters directly without touching code.
+* **Instant Load Prediction:** Accurately estimates structural capacity based on column geometry and material properties.
+* **Generative Structural Design:** Features a reverse optimization module where engineers can input a 'Target Load', and the AI automatically recommends the most economical and sustainable material combinations.
+* **Feature Importance Insights:** Transparently displays which parameters (e.g., Area of Concrete) most significantly influence the column's strength.
 
 ### 🛠️ How to Use the Live App
 1. Click the **"Open in Colab"** badge at the very top of this page.
 2. Once Colab opens, click on `Runtime` > `Run all` (or press `Ctrl + F9`).
 3. Scroll to the bottom of the page and click on the generated **Public URL** (Gradio link) to use the web application live!
 
----
-*Developed as part of a final year research initiative combining sustainable materials (Alkali-Activated Concrete) and AI.*
+### 🌍 Research Focus & Sustainability
+The core mission of this tool is to promote eco-friendly construction practices by substituting mathematical guesswork with data-driven predictive modeling. This computational approach aligns with broader research goals of optimizing sustainable building materials, including ongoing experimental studies into the thermo-mechanical behavior of cement-free Alkali-Activated Concrete (AAC) under extreme heat. 
+
+### 💻 Tech Stack
+* **Core Logic:** Python, Pandas, Machine Learning (Random Forest)
+* **Interactive UI:** Gradio Framework
+* **Pipeline:** Zero-Touch data aggregation from GitHub to Google Colab
