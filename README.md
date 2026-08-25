@@ -16,10 +16,11 @@
 🎓 **B.Tech Civil Engineering** | 🔬 Computational Mechanics & AAC Researcher | 📝 Published Author
 
 ### 📌 Project Overview
-This project is a response to the massive carbon footprint of conventional cement-based construction. **CivCode AI v3.0** is an advanced Machine Learning framework designed to instantly predict the structural performance of UPVC-confined concrete[cite: 21]. By utilizing a Random Forest regression algorithm trained on 742 experimental data points, this tool eliminates the need for recurring, energy-consuming physical testing[cite: 21]. 
+This project is a response to the massive carbon footprint of conventional cement-based construction. **CivCode AI v3.0** is an advanced Machine Learning framework designed to instantly predict the structural performance of UPVC-confined concrete. By utilizing a Random Forest regression algorithm trained on 742 experimental data points, this tool eliminates the need for recurring, energy-consuming physical testing. 
 
 ### 🚀 Key Features
-* **Instant Load Prediction:** Accurately estimates structural capacity based on column geometry and material properties with 86.40% accuracy[cite: 21].
+<img width="1346" height="599" alt="Screenshot 2026-08-25 124840" src="https://github.com/user-attachments/assets/a597f1fa-2888-4ede-8089-0c993c51c9ba" />
+* **Instant Load Prediction:** Accurately estimates structural capacity based on column geometry and material properties with 86.40% accuracy.
 * **Generative Structural Design:** Features a reverse optimization module to automatically recommend the most economical and sustainable material combinations.
 * **Feature Importance Insights:** Transparently displays which parameters most significantly influence structural integrity.
 
@@ -31,6 +32,6 @@ This project is a response to the massive carbon footprint of conventional cemen
 ---
 
 ### 🔮 Research Vision & Future Integration
-While the current ML model demonstrates high capability in macroscopic structural predictions, the ultimate goal is the broader **Digitalization in Construction**[cite: 21]. Future iterations aim to integrate these ML-based predictions directly with numerical mechanics and electro-thermal coupled models[cite: 21]. 
+While the current ML model demonstrates high capability in macroscopic structural predictions, the ultimate goal is the broader **Digitalization in Construction**. Future iterations aim to integrate these ML-based predictions directly with numerical mechanics and electro-thermal coupled models. 
 
-This computational approach is being developed in parallel with physical research on cement-free Alkali-Activated Concrete (AAC). By analyzing AAC's thermal degradation up to 600°C, the research loop will eventually be closed through advanced micro-thermo-mechanical automated testing[cite: 21]. The long-term objective is to contribute to **Digital Civil Infrastructure** by developing smart, sustainable structures on a larger scale[cite: 21].
+This computational approach is being developed in parallel with physical research on cement-free Alkali-Activated Concrete (AAC). By analyzing AAC's thermal degradation up to 600°C, the research loop will eventually be closed through advanced micro-thermo-mechanical automated testing[cite: 21]. The long-term objective is to contribute to **Digital Civil Infrastructure** by developing smart, sustainable structures on a larger scale.
