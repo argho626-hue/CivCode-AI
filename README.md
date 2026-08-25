@@ -21,7 +21,8 @@ This project is a response to the massive carbon footprint of conventional cemen
 ### 🚀 Key Features
 <img width="1346" height="599" alt="Screenshot 2026-08-25 124840" src="https://github.com/user-attachments/assets/a597f1fa-2888-4ede-8089-0c993c51c9ba" />
 <img width="1281" height="596" alt="Screenshot 2026-08-22 220832" src="https://github.com/user-attachments/assets/63afe4ba-f108-4121-ac6c-d1a69cea3965" />
-<img width="1346" height="599" alt="Screenshot 2026-08-25 124840" src="https://github.com/user-attachments/assets/e09990cc-4614-4441-b8c2-d10ab2ed0a33" />
+<img width="1278" height="580" alt="Screenshot 2026-08-22 221317" src="https://github.com/user-attachments/assets/56284c97-b5f0-4693-812e-54e2c56678e6" />
+
 * **Instant Load Prediction:** Accurately estimates structural capacity based on column geometry and material properties with 86.40% accuracy.
 * **Generative Structural Design:** Features a reverse optimization module to automatically recommend the most economical and sustainable material combinations.
 * **Feature Importance Insights:** Transparently displays which parameters most significantly influence structural integrity.
